@@ -113,7 +113,7 @@ class MainActivity : AppCompatActivity() {
 The app runs successfully on an Android emulator and displays the text `"Mobile Application Development"` on screen, confirming a correctly configured basic Android project.
 
 ## 👤 Author
-**Vishwajeet Singh**
+**hritik harsh**
 
 ## 📃 License
 This project is open source and available for educational use.
